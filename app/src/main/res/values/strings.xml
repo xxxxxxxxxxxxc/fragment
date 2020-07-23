@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="android_content">Hello android fragment</string>
+    <string name="to_android_fragment">Android Fragment</string>
+    <string name="to_java_fragment">Java Fragment</string>
+    <string name="java_content">Hello java fragment</string>
+</resources>
